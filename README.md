@@ -27,7 +27,7 @@ cd valor
 Valor will be available on **Google Play Store** soon!
 
 ## 📧 Contact & Support
-Have questions or feedback? Reach out to us at **[your.email@example.com](mailto:your.email@example.com)** or open an issue on GitHub.
+Have questions or feedback? Reach out to us at **[kenkzuha@gmail.com](mailto:kenkzuha@gmail.com)** or open an issue on GitHub.
 
 ---
 © 2024 Valor. All rights reserved.
