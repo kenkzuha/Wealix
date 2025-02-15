@@ -1,8 +1,8 @@
-# Valor - Modern Finance & Expense Tracker
+# Wealix - Modern Finance & Expense Tracker
 
-In today's world, many people dream of owning their ideal items but often face financial constraints or struggle with managing their budgets. This can lead to missed opportunities and sometimes even wasteful spending. **Valor** is here to empower you with effective financial tracking, helping you bridge the gap between dreams and reality.
+In today's world, many people dream of owning their ideal items but often face financial constraints or struggle with managing their budgets. This can lead to missed opportunities and sometimes even wasteful spending. **Wealix** is here to empower you with effective financial tracking, helping you bridge the gap between dreams and reality.
 
-Valor is a modern and easy-to-use finance tracking app that helps you manage your expenses, set budgets, and track your financial goals effortlessly.
+Wealix is a modern and easy-to-use finance tracking app that helps you manage your expenses, set budgets, and track your financial goals effortlessly.
 
 ## Features
 - **Expense Tracking** – Record and categorize your daily expenses with ease.
@@ -27,7 +27,7 @@ cd valor
 ```
 
 ## Download
-Valor will be available on **Google Play Store** soon!
+Wealix will be available on **Google Play Store** soon!
 
 ## Contact & Support
 Have questions or feedback? Reach out to us at **[kenkzuha@gmail.com](mailto:kenkzuha@gmail.com)** or open an issue on GitHub.
