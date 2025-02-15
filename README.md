@@ -13,7 +13,7 @@ Valor is a modern and easy-to-use finance tracking app that helps you manage you
 - **Dream Vault** – Store your dream items and track your progress towards achieving them.
 
 ## 📸 Screenshots
-*(Add screenshots of your app here)*
+*Coming Soon*
 
 ## Getting Started
 ### Installation (For Developers)
