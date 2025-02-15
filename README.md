@@ -19,8 +19,8 @@ Wealix is a modern and easy-to-use finance tracking app that helps you manage yo
 ### Installation (For Developers)
 ```bash
 # Clone the repository
-git clone https://github.com/kenkzuha/valor.git
-cd valor
+git clone https://github.com/kenkzuha/wealix.git
+cd wealix
 
 # Build and run the app
 ./gradlew build
