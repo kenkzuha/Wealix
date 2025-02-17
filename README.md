@@ -11,6 +11,8 @@ Wealix is a modern and easy-to-use finance tracking app that helps you manage yo
 - **Cloud Sync** – Securely sync your data across devices.
 - **Modern UI** – A sleek and intuitive interface designed for a smooth experience.
 - **Dream Vault** – Store your dream items and track your progress towards achieving them.
+- **Subscription Alert** - Tells you about your upcoming Monthly/Weekly Subscription.
+- **Spending Alert** - Tells your Outflow Money if its exceed the limit.
 
 ## 📸 Screenshots
 *Coming Soon*
